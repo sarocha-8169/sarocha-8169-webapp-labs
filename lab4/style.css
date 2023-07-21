@@ -1,0 +1,31 @@
+h1 {
+color:red;}
+h2 {
+color:green;
+text-align: right;
+}
+h3, h4 {
+color:blue;
+text-align: center;
+}
+
+.le {
+color: darkturquoise;
+text-align: left;
+font-style: italic;
+border:2px solid royalblue;
+}
+
+.center {
+color: darkolivegreen;
+text-align: center;
+font-size: weight;
+border:3px dotted coral;
+}
+
+.ri {
+color:darkmagenta;
+text-align: right;
+font-size: large;
+border:4px dashed yellow;
+}
