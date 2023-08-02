@@ -1,0 +1,37 @@
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+ul.navbar li {
+    float: left;
+}
+ul.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul.navbar li a:hover {
+    color: black;
+    background-color: yellow
+}
+ul.navbar li a:active { 
+    color: white;
+    background-color: purple;
+}
+#unordered {
+    background-color: #96d5df;
+    border: #250fef solid 5px;
+    padding: 5px;
+    width: 200px;
+}
+#ordered {
+    background-color: #76f489;
+    border: #046a41 solid 5px;
+    padding: 5px;
+    width: 200px;
+}
